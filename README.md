@@ -1,8 +1,4 @@
-# Maintenance Page
-
-This repository contains a simple and responsive maintenance page built with HTML and CSS. The page displays a friendly message to users when your website is undergoing maintenance.
-
-## Features
+# Maintenance Page  Features
 
 - **Responsive Design**: The page is fully responsive and adapts to different screen sizes, ensuring a great user experience on both desktop and mobile devices.
 - **Center-Aligned Content**: The maintenance message is centered both vertically and horizontally on the page.
