@@ -22,6 +22,3 @@ Sorry for the inconvenience. We're performing some maintenance at the moment. We
 
 Feel free to customize the content, styles, and structure to fit your brand's needs. You can change the text, background color, fonts, and more by editing the `index.html` file.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
